@@ -10,6 +10,6 @@ const Container: React.FC<ContainerProps> = ({
             {children}
         </div>
     );
-}
+};
 
 export default Container;
